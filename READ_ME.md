@@ -7,4 +7,4 @@ Setting up a webhook allows Github to trigger Jenkins to start a new build whene
 - Choose json as the content type, send me everything, and active
 
 ## Creating CI job in jenkins
-- Create a new 
+- Create a new ratio 
